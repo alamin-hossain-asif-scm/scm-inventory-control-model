@@ -94,4 +94,4 @@ Inventory management · ABC-XYZ analysis · EOQ · safety stock and reorder poin
 
 **Alamin Hossain Asif** · Dhaka, Bangladesh · Supply chain portfolio, Project 1
 
-LinkedIn: [add your LinkedIn profile link here]
+LinkedIn: www.linkedin.com/in/alamin-hossain-asif
